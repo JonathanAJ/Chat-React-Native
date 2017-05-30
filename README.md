@@ -1,6 +1,6 @@
 # Chat: React Native + Firebase
 
-** As funcionalidades são bem simples, mas significativas: **
+**As funcionalidades são bem simples, mas significativas:**
 
 ## Funcionalidades
 
